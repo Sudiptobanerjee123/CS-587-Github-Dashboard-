@@ -1,0 +1,42 @@
+export default [
+  {
+    "login": "vanshikaarora",
+    "id": 34261945,
+    "node_id": "MDQ6VXNlcjM0MjYxOTQ1",
+    "avatar_url": "https://avatars.githubusercontent.com/u/34261945?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/vanshikaarora",
+    "html_url": "https://github.com/vanshikaarora",
+    "followers_url": "https://api.github.com/users/vanshikaarora/followers",
+    "following_url": "https://api.github.com/users/vanshikaarora/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vanshikaarora/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/vanshikaarora/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vanshikaarora/subscriptions",
+    "organizations_url": "https://api.github.com/users/vanshikaarora/orgs",
+    "repos_url": "https://api.github.com/users/vanshikaarora/repos",
+    "events_url": "https://api.github.com/users/vanshikaarora/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/vanshikaarora/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  {
+    "login": "SarthakDandotiya",
+    "id": 35171636,
+    "node_id": "MDQ6VXNlcjM1MTcxNjM2",
+    "avatar_url": "https://avatars.githubusercontent.com/u/35171636?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/SarthakDandotiya",
+    "html_url": "https://github.com/SarthakDandotiya",
+    "followers_url": "https://api.github.com/users/SarthakDandotiya/followers",
+    "following_url": "https://api.github.com/users/SarthakDandotiya/following{/other_user}",
+    "gists_url": "https://api.github.com/users/SarthakDandotiya/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/SarthakDandotiya/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/SarthakDandotiya/subscriptions",
+    "organizations_url": "https://api.github.com/users/SarthakDandotiya/orgs",
+    "repos_url": "https://api.github.com/users/SarthakDandotiya/repos",
+    "events_url": "https://api.github.com/users/SarthakDandotiya/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/SarthakDandotiya/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+];
