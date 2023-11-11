@@ -113,8 +113,8 @@ docker ps
 
 
 ### Pushing to Docker Hub
-docker login
-docker tag my-react-app "your-dockerhub-username"/my-react-app:latest
-docker push "your-dockerhub-username"/my-react-app:latest
+- docker login
+- docker tag my-react-app "your-dockerhub-username"/my-react-app:latest
+- docker push "your-dockerhub-username"/my-react-app:latest
 
 
