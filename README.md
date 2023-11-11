@@ -99,3 +99,22 @@ Please note that the dashboard is read-only and does not allow modifications to 
 
 ## Contributing
 Contributions are welcome. Please read the contribution guidelines before submitting a pull request.
+
+## Docker commands
+
+### Build the Docker Image
+docker build -t my-react-app .
+
+### Run the Docker Container
+docker run -p 3000:3000 my-react-app
+
+### See Running Containers
+docker ps
+
+
+### Pushing to Docker Hub
+docker login
+docker tag my-react-app <your-dockerhub-username>/my-react-app:latest
+docker push <your-dockerhub-username>/my-react-app:latest
+
+
